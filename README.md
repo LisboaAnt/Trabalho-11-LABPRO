@@ -13,6 +13,9 @@ Você pode acessar o site pelo link : [https://github.com/lisboaGOD/Code-03-LABP
 
 - c pure
 
+## ⬇️ Download
+-You must download the files "codesabe.c", "ordvetor.h", "code.c" placing them in the same folder. To run code you must run the file "code.c" is executable with gcc     or higher.
+
 ## 💛 Contact
 
 antoniol.carvalho49@gmail.com
